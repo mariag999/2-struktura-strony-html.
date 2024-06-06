@@ -1,6 +1,10 @@
-h1{background-color: orange;
+#glowny-tytul-strony{background-color: orange;
 }
-h2{background-color: green;
+#o-mnie{background-color: green;
 }
-h3{background-color: green;
+#kontakt{background-color: green;
 }
+
+div{background-color: rgb(232, 239, 239);
+width: fit-content;
+height: fit-content;}
